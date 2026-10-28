@@ -9,8 +9,8 @@ it's left alone for a while, a ghost hand beside it shows what to do.
 - The pets are vincentt.studio head accessories on the SDK's canonical head fit, steadied by a
   speed-adaptive spring with the head occluder in the same group; your hands are drawn in front of
   the pet (`HandCutout`), so a poke looks real.
-- Poking (`src/pet/poke.ts`, tested): the index fingertip coming into the pet's box, which sits
-  above the face box. The air swipe (`src/pet/swipe.ts`, tested) is the one from Try-On Studio;
+- Poking (`src/pet/poke.ts`, unit-tested): the index fingertip coming into the pet's box, which
+  sits above the face box. Sweeping sideways is an air swipe (`src/pet/swipe.ts`, unit-tested);
   near the pet a moving hand is reaching to poke, so it doesn't swipe there.
 - Touch: tap the pet to poke it, tap anywhere else for the next pet, or drag sideways.
 - Models: `public/models/vincentt-pet-*.glb` (sizes in `src/pet/pets.ts`); the hint's hand is

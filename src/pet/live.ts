@@ -15,7 +15,7 @@ export const live = {
   lastAction: 0,
   /** The pet's middle on the canvas (CSS px) and about how big it is. */
   petScreen: null as { x: number; y: number; r: number } | null,
-  /** Dev checks only (window.__pet): stands in for the face's readings. */
+  /** Dev only (window.__pet): stands in for the face's readings. */
   override: null as Readonly<Record<string, number | undefined>> | null,
 };
 

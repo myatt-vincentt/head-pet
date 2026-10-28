@@ -1,6 +1,6 @@
 // Hands: poke the pet with a fingertip (poke.ts), or sweep sideways in the
-// air for the next / previous pet (swipe.ts, from Try-On Studio). Hands also
-// stay in front of the pet (HandCutout), so a finger poking it looks right.
+// air for the next / previous pet (swipe.ts). Hands also stay in front of
+// the pet (HandCutout), so a finger poking it looks right.
 //
 // One hand drives it at a time, followed by its stable identity (the SDK's
 // `poses.left` / `poses.right`); only fresh detections count. Near the pet a

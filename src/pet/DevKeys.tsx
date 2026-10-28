@@ -1,5 +1,5 @@
 // Dev-only: keys 1–6 show that pet, arrows step through them;
-// window.__pet exposes the store and the live face readings for checks.
+// window.__pet exposes the store and the live face readings to the console.
 // Scene.tsx lazy-imports this behind an inline NODE_ENV check, so it never
 // reaches production.
 import { useEffect } from "react";
