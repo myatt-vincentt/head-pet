@@ -1,0 +1,10 @@
+{
+  "title": "Head Pet",
+  "description": "A little pet lives on your head: a capybara, corgi, sloth, axolotl, red panda or sea otter. Poke it and it jumps, nod and it bounces, swipe for the next one. Right in your browser.",
+  "image": "/images/og-default.jpg",
+  "imageAlt": "Head Pet — a camera experience built with Vincentt",
+  "imageWidth": 1200,
+  "imageHeight": 630,
+  "imageType": "image/jpeg",
+  "url": "https://head-pet.vincentt.app"
+}
