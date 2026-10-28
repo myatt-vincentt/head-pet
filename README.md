@@ -13,6 +13,7 @@ it's left alone for a while, a ghost hand beside it shows what to do.
   sits above the face box. Sweeping sideways is an air swipe (`src/pet/swipe.ts`, unit-tested);
   near the pet a moving hand is reaching to poke, so it doesn't swipe there.
 - Touch: tap the pet to poke it, tap anywhere else for the next pet, or drag sideways.
+- Thumbnail: `public/images/head-pet-thumbnail.jpg` (the share image).
 - Models: `public/models/vincentt-pet-*.glb` (sizes in `src/pet/pets.ts`); the hint's hand is
   `hand-v1.glb`. Credits in `CREDITS.md`.
 - Dev preview without a camera: the media switcher starts on `dev-media/pet.mp4` if you add one,
